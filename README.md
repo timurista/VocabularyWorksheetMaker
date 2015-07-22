@@ -2,7 +2,7 @@
 Makes Vocabulary Worksheets for a list of vocabulary words
 
 ## How To Run
-- Load the File into your browser
+- Load the index.html into your browser
 - Enter the title of your worksheet
 - Enter your vocabulary words seperated by spaces, commas, or by new lines (the regex searches for words based on the flag \w+, so it will ignore periods inside words)
 - Click "Make Worksheet" to create a set of new worksheets
